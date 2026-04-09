@@ -2,7 +2,7 @@
 
 For project 2, I decided to learn some data visualization in an attempt to show patterns in my music streaming throughout a day of driving. 
 
-In order to collect the data used for this project, I went to stat.fm, linked my Spotify account and chose a day to log what songs I listened to. Then, I created a CSV file, compiling the data into the following columns: Time, Artist, Title, Length, Genre, Top Position (see easter_roadtrip_songs.csv file).
+In order to collect the data used for this project, I went to stats.fm, linked my Spotify account and chose a day to log what songs I listened to. Then, I created a CSV file, compiling the data into the following columns: Time, Artist, Title, Length, Genre, Top Position (see easter_roadtrip_songs.csv file).
 
 Once the data was compiled, I began to read and parse the data in VSCode. Then, I coded two separate plots, using MatPlotLib. In the first graph (see project2_plot1.png), I aimed to show how the selection of music changed throughout the day changed, by showing the number of songs played from separate genres, further separated into the time of day the song was played.
 
